@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\bin\Debug\Guia1.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\bin\Debug\Guia1.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\bin\Debug\Guia1.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\bin\Debug\Guia1.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\bin\Debug\Guia1.Validacion.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\obj\Debug\Ejercicio1.console.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\obj\Debug\Ejercicio1.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\obj\Debug\Ejercicio1.console.csproj.CopyComplete
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\obj\Debug\Guia1.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.console\obj\Debug\Guia1.console.pdb
