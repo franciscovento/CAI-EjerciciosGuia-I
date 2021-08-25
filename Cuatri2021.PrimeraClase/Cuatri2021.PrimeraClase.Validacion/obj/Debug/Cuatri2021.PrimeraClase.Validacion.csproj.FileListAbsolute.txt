@@ -1,0 +1,6 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\bin\Debug\Cuatri2021.PrimeraClase.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\bin\Debug\Cuatri2021.PrimeraClase.Validacion.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\obj\Debug\Cuatri2021.PrimeraClase.Validacion.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\obj\Debug\Cuatri2021.PrimeraClase.Validacion.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\obj\Debug\Cuatri2021.PrimeraClase.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Validacion\obj\Debug\Cuatri2021.PrimeraClase.Validacion.pdb

@@ -1,0 +1,16 @@
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.exe.config
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.exe
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.pdb
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.exe
+C:\Users\franc\Documents\UBA\Construccion de aplicaciones informaticas\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Consola.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\bin\Debug\Cuatri2021.PrimeraClase.Validacion.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.csproj.CopyComplete
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Cuatri2021.PrimeraClase\Cuatri2021.PrimeraClase.Consola\obj\Debug\Cuatri2021.PrimeraClase.Consola.pdb
