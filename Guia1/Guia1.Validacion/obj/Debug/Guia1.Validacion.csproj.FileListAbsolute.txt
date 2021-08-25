@@ -1,0 +1,5 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.Validacion\bin\Debug\Guia1.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.Validacion\bin\Debug\Guia1.Validacion.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.Validacion\obj\Debug\Guia1.Validacion.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.Validacion\obj\Debug\Guia1.Validacion.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Guia1\Guia1.Validacion\obj\Debug\Guia1.Validacion.pdb
