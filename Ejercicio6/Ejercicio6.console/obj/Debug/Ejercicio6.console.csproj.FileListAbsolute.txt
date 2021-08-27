@@ -1,0 +1,7 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\bin\Debug\Ejercicio6.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\bin\Debug\Ejercicio6.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\bin\Debug\Ejercicio6.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\obj\Debug\Ejercicio6.console.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\obj\Debug\Ejercicio6.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\obj\Debug\Ejercicio6.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio6\Ejercicio6.console\obj\Debug\Ejercicio6.console.pdb

@@ -35,7 +35,6 @@ namespace Ejercicio4.console
                         if (Caracteres1[i] == Caracteres2[j])
                         {
                             contador++;
-
                         }
                     }
                 }
