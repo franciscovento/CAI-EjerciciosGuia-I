@@ -25,22 +25,10 @@ namespace Ejercicio4.console
                 char[] Caracteres1 = palabra1.ToCharArray();
                 char[] Caracteres2 = palabra2.ToCharArray();
 
-                int contador = 0;
+                Array.Sort(Caracteres2);
+                Array.Sort(Caracteres1);
 
-                for (int i = 0; i < Caracteres1.Length; i++)
-                {
-                    
-                    for (int j = 0; j < Caracteres2.Length; j++)
-                    {
-                        if (Caracteres1[i] == Caracteres2[j])
-                        {
-                            contador++;
-                        }
-                    }
-                }
-
-
-                if (contador == Caracteres1.Length)
+                if (Caracteres2.SequenceEqual(Caracteres1))
                 {
                     Console.WriteLine("Es un anagrama");
                 }
@@ -48,6 +36,7 @@ namespace Ejercicio4.console
                 {
                     Console.WriteLine("No es un anagrama");
                 }
+              
             }
 
 

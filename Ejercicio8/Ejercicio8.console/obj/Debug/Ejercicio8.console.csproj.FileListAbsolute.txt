@@ -1,0 +1,7 @@
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\bin\Debug\Ejercicio8.console.exe.config
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\bin\Debug\Ejercicio8.console.exe
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\bin\Debug\Ejercicio8.console.pdb
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\obj\Debug\Ejercicio8.console.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\obj\Debug\Ejercicio8.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\obj\Debug\Ejercicio8.console.exe
+C:\Users\franc\source\repos\Ejercicio8\Ejercicio8.console\obj\Debug\Ejercicio8.console.pdb
