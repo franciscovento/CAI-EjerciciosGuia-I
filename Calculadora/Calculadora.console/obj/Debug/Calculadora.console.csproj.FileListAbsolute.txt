@@ -1,0 +1,7 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\bin\Debug\Calculadora.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\bin\Debug\Calculadora.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\bin\Debug\Calculadora.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\obj\Debug\Calculadora.console.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\obj\Debug\Calculadora.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\obj\Debug\Calculadora.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Calculadora\Calculadora.console\obj\Debug\Calculadora.console.pdb
