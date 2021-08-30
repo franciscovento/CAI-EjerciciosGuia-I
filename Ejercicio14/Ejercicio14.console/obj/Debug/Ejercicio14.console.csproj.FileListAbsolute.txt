@@ -1,0 +1,6 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\bin\Debug\Ejercicio14.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\bin\Debug\Ejercicio14.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\bin\Debug\Ejercicio14.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\obj\Debug\Ejercicio14.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\obj\Debug\Ejercicio14.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Ejercicio14\Ejercicio14.console\obj\Debug\Ejercicio14.console.pdb
