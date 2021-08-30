@@ -45,7 +45,7 @@ namespace Calculadora.console
                 Console.WriteLine("El resultado de la " + nombreOperacion + " entre " + primerTermino + " y " + segundoTermino + " es: " + respuesta);
                 Console.WriteLine("Presiona escape para salir, cualquier otra tecla para realizar otra operación");
 
-            } while (Console.ReadKey().Key != ConsoleKey.Escape);
+            } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
 
         }
 

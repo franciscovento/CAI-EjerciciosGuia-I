@@ -10,17 +10,39 @@ namespace Ejercicio10.console
     {
         static void Main(string[] args)
         {
+            do
+            {
+                string Mensaje;
+                ConsoleKeyInfo cki;
 
-            int[] numbers = { 2, 3, 4, 5, 6, 7, 8, 9, };
+                Console.WriteLine("Ingrese un caracter");
+                cki = Console.ReadKey();
+                char caracter = cki.KeyChar;
 
-            int [] number = Array.FindAll(numbers, p => p > 5);
+                Mensaje = VerificarTipo(Char.ToLower(caracter));
 
-            int indice = Array.IndexOf(numbers, 3);
+                Console.WriteLine(System.Environment.NewLine + Mensaje);
+                Console.WriteLine("Presiona escape para salir cualquie otra tecla para continuar");
 
-            Console.WriteLine(indice);
+            } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
 
-            Console.WriteLine("Pulse una tecla para salir...");
-            Console.ReadLine();
+       
+        }
+
+        static string VerificarTipo(char caracter)
+        {
+            if (Int32.TryParse(Convert.ToString(caracter), out int Salida))
+            {
+                return "El caracter ingresado es de tipo número";
+            }
+            else if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u')
+            {
+                return "El caracter ingresado es un vocal";
+            }
+            else
+            {
+                return "El caracter ingresado es una constante";
+            }
         }
     }
 }
