@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using VentaRepuestos.library.Objetos;
+using VentaRepuestos.library.Utilidades;
+
 
 namespace VentaRepuestos.console
 {
@@ -11,6 +13,8 @@ namespace VentaRepuestos.console
     {
         static void Main(string[] args)
         {
+
+            MenuDesplegable();
 
             Categoria primera = new Categoria(10, "Importadas");
             Categoria segunda = new Categoria(100, "Segunda");
@@ -45,6 +49,11 @@ namespace VentaRepuestos.console
             }
 
 
+
+            string hola = "HOla";
+
+            bool flag = Validaciones.ValidarNumero(hola);
+            Console.WriteLine(flag);
             Console.WriteLine(A.Stock);
             
           
@@ -53,6 +62,14 @@ namespace VentaRepuestos.console
 
             Console.WriteLine("Pulse una tecla para salir...");
             Console.ReadLine();
+        }
+
+        private static void MenuDesplegable()
+        {
+            Console.WriteLine("*****SISTEMA VENTA DE REPUESTOS*****" + Environment.NewLine +
+                "ELIJA LA OPCION QUE DESEA REALIZAR:" + Environment.NewLine +
+                "1 - AGREGAR REPUESTO" + Environment.NewLine +
+                "2- AGREGAR CATEGORIA");
         }
     }
 }

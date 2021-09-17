@@ -4,3 +4,9 @@ C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.libra
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.csproj.CoreCompileInputs.cache
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.dll
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\bin\Debug\VentaRepuestos.library.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\bin\Debug\VentaRepuestos.library.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.library\obj\Debug\VentaRepuestos.library.pdb

@@ -1,0 +1,6 @@
+C:\Users\franc\source\repos\Facultad\Facultad.library\bin\Debug\Facultad.library.dll
+C:\Users\franc\source\repos\Facultad\Facultad.library\bin\Debug\Facultad.library.pdb
+C:\Users\franc\source\repos\Facultad\Facultad.library\obj\Debug\Facultad.library.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Facultad\Facultad.library\obj\Debug\Facultad.library.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Facultad\Facultad.library\obj\Debug\Facultad.library.dll
+C:\Users\franc\source\repos\Facultad\Facultad.library\obj\Debug\Facultad.library.pdb

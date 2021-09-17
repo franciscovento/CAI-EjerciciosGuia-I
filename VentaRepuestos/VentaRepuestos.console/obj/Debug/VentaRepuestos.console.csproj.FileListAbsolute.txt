@@ -8,3 +8,13 @@ C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.conso
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.library.dll
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.library.pdb
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.csproj.CopyComplete
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.library.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\bin\Debug\VentaRepuestos.library.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.csproj.CopyComplete
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\VentaRepuestos\VentaRepuestos.console\obj\Debug\VentaRepuestos.console.pdb

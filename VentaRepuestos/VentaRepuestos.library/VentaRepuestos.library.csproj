@@ -45,9 +45,8 @@
     <Compile Include="Objetos\Repuesto.cs" />
     <Compile Include="Objetos\VentasRepuestos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilidades\Validaciones.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Validadores\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

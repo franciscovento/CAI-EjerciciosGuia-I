@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facultad.console", "Facultad.console\Facultad.console.csproj", "{19575741-63CD-4675-BEB5-AAEBB1845406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facultad.library", "Facultad.library\Facultad.library.csproj", "{DA5B040B-F3AC-4B39-B094-CD7F94B1FDF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19575741-63CD-4675-BEB5-AAEBB1845406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19575741-63CD-4675-BEB5-AAEBB1845406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19575741-63CD-4675-BEB5-AAEBB1845406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19575741-63CD-4675-BEB5-AAEBB1845406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5B040B-F3AC-4B39-B094-CD7F94B1FDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5B040B-F3AC-4B39-B094-CD7F94B1FDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5B040B-F3AC-4B39-B094-CD7F94B1FDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5B040B-F3AC-4B39-B094-CD7F94B1FDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C843D8-492A-44B3-B1D5-CD38CE48B10A}
+	EndGlobalSection
+EndGlobal
