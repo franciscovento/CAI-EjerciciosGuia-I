@@ -28,7 +28,7 @@ namespace Facultad.library.Entidades
 
         public override string GetCredencial()
         {
-            return $"Código: {Codigo} - {Apellido}, {Nombre}";
+            return $"Código: {_codigo} - {_apellido}, {_nombre}";
         }
 
         public override string ToString()

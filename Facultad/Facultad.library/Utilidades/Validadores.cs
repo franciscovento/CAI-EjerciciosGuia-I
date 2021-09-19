@@ -6,20 +6,23 @@ using System.Threading.Tasks;
 
 namespace Facultad.library.Utilidades
 {
-    public class Validadores
+    public static class Validadores
     {
-        public static bool ValidarEnteroPositivo(string x)
+        public static bool ValidarEnteroPositivo(string x, ref string msj)
         {
             if (!Int32.TryParse(x, out int Salida))
             {
+                msj = "Debes ingresar un número";
                 return false;
             }
             else if (Salida < 0)
             {
+                msj = "No puedes ingresar un numero menor a 0";
                 return false;
             }
             else
             {
+                msj = "";
                 return true;
             }
 
@@ -53,27 +56,33 @@ namespace Facultad.library.Utilidades
             }
         }
 
-        public static bool ValidarOpcion(string x, ref int option, ref string mensaje)
+        public static bool ValidarOpcion(string opcionSelecionada, Array opcionesValidas)
         {
-            if (!ValidarEnteroPositivo(x))
-            {
-                mensaje += "Debes ingresar un numero" + System.Environment.NewLine;
-                return false;
+            foreach(string value in opcionesValidas){
+                if (value == opcionSelecionada)
+                {
+                    return true;
+                }
             }
-            else if(Int32.Parse(x) > 0 && Int32.Parse(x) <= 3)
+
+            return false;
+        }
+
+
+        public static bool ValidarVacio(string x)
+        {
+            if (String.IsNullOrEmpty(x))
             {
-                option = Int32.Parse(x);
-               
-                return true;
+                return false;
             }
             else
             {
-                mensaje += "Número incorrecto, ingresa un número del menú";
-                return false;
+                return true;
             }
-
         }
 
+
+        
 
     }
 }

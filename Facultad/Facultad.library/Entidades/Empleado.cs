@@ -50,9 +50,26 @@ namespace Facultad.library.Entidades
             set => _legajo = value;
         }
 
+        public Salario UltimoSalario
+        {
+            get => _ultimoSalario;
+            set => _ultimoSalario = value;
+        }
+
+        public List<Salario> Salario
+        {
+            get => _salarios;
+            set => _salarios = value;
+        }
+
         public override string GetCredencial()
         {
-            return $"{_legajo} - {GetNombreCompleto()} salario $ {_ultimoSalario}";
+            return $"Legajo: {_legajo} - {GetNombreCompleto()} salario $ {_ultimoSalario.Bruto}";
+        }
+
+        public override string ToString()
+        {
+            return GetCredencial();
         }
 
         public override bool Equals(object obj)

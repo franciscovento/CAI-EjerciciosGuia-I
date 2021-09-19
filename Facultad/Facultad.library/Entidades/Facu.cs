@@ -6,14 +6,24 @@ using System.Threading.Tasks;
 
 namespace Facultad.library.Entidades
 {
-    public class Facultad
+    public class Facu
     {
 
-        private List<Alumno> _alumnos;
+        private List<Alumno> _alumnos = new List<Alumno>();
         private int _cantidadSedes;
-        private List<Empleado> _empleados;
+        private List<Empleado> _empleados = new List<Empleado>();
         private string _nombre;
 
+
+        public Facu()
+        {
+
+        }
+
+        public Facu(string Nombre)
+        {
+            _nombre = Nombre;
+        }
 
         public int CantidadSedes
         {
@@ -43,19 +53,20 @@ namespace Facultad.library.Entidades
             _alumnos.Add(x);
         }
 
-        public void AgregarAlumno( Alumno x)
+        public void AgregarAlumno(Alumno x)
         {
-            _alumnos.Add(x);
+           
+                _alumnos.Add(x);
         }
 
         public void EliminarAlumno( int codigo)
         {
-            Alumno x = _alumnos.Find(alumno => alumno.Codigo == codigo);
-            _alumnos.Remove(x);
+            _alumnos.Remove(_alumnos.Find(alumno => alumno.Codigo == codigo));
         }
 
         public void AgregarEmpleado (Empleado x)
         {
+            
             _empleados.Add(x);
         }
 
@@ -85,6 +96,6 @@ namespace Facultad.library.Entidades
             List<Empleado> x = _empleados.FindAll(emp => emp.Nombre == nombre);
             return x;
         }
-
+      
     }
 }

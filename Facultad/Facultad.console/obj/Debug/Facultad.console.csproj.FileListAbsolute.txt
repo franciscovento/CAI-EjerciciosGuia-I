@@ -8,3 +8,13 @@ C:\Users\franc\source\repos\Facultad\Facultad.console\obj\Debug\Facultad.console
 C:\Users\franc\source\repos\Facultad\Facultad.console\obj\Debug\Facultad.console.csproj.CopyComplete
 C:\Users\franc\source\repos\Facultad\Facultad.console\obj\Debug\Facultad.console.exe
 C:\Users\franc\source\repos\Facultad\Facultad.console\obj\Debug\Facultad.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\bin\Debug\Facultad.console.exe.config
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\bin\Debug\Facultad.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\bin\Debug\Facultad.console.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\bin\Debug\Facultad.library.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\bin\Debug\Facultad.library.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\obj\Debug\Facultad.console.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\obj\Debug\Facultad.console.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\obj\Debug\Facultad.console.csproj.CopyComplete
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\obj\Debug\Facultad.console.exe
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\CAI-EjerciciosGuia-I\Facultad\Facultad.console\obj\Debug\Facultad.console.pdb
